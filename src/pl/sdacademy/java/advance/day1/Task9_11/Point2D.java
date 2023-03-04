@@ -1,6 +1,6 @@
 package pl.sdacademy.java.advance.day1.Task9_11;
 
-public class Point2D implements Movable {
+public class Point2D implements Movable{
     private double x;
     private double y;
 
@@ -13,12 +13,12 @@ public class Point2D implements Movable {
         return x;
     }
 
-    public double getY() {
-        return y;
-    }
-
     public void setX(double x) {
         this.x = x;
+    }
+
+    public double getY() {
+        return y;
     }
 
     public void setY(double y) {
@@ -30,8 +30,8 @@ public class Point2D implements Movable {
         /*
         Point2D(0,3)
         MoveDirection(3,-2)
-        = Point2D(3,1)
-        **/
+        Point2D(3, 1)
+        */
         x += moveDirection.getX();
         y += moveDirection.getY();
     }

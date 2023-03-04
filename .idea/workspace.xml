@@ -4,31 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45b549e2-6f53-4b06-ada2-b42f21826877" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZadaniaJavaZaawansowan.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/Task7/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/Task7/WeaponClip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/Task8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/Task8/Parcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/Task8/ParcelValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/Task8/Validator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/Task9_11/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/Task9_11/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/Task9_11/MoveDirection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/Task9_11/Point2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/Task9_11/Task9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/task1/MyOwnComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/task1/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/task3/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/task4/Strorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/task4/Task4.java" afterDir="false" />
+    <list default="true" id="45b549e2-6f53-4b06-ada2-b42f21826877" name="Changes" comment="Advance task day one">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/Task9_11/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/Task9_11/Circle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +54,18 @@
       <option name="presentableId" value="Default" />
       <updated>1677918737296</updated>
     </task>
+    <task id="LOCAL-00001" summary="Advance task day one">
+      <created>1677949549774</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677949549774</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Advance task day one" />
+    <option name="LAST_COMMIT_MESSAGE" value="Advance task day one" />
   </component>
 </project>
