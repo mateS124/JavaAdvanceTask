@@ -5,51 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45b549e2-6f53-4b06-ada2-b42f21826877" name="Changes" comment="ey">
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/Task5/SDAHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/Task5/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/Task6/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/Task9_11/Resizable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/task4/Storage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task12_13/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task12_13/CarService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task12_13/EngineType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task12_13/Manufacturer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task12_13/Task12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task14/task14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task15/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task15/Task15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task16/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task16/Task16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task17/ConversionType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task17/ConversionTypeWithFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task17/MeasurmentsConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task17/Task17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task20_21_22/Cube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task20_21_22/Fillable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task20_21_22/Hexagon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task20_21_22/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task20_21_22/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task20_21_22/Shape3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task20_21_22/Task20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task20_21_22/Task21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task20_21_22/Task22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task20_21_22/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task24/Basket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task24/BasketEmptyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task24/BasketFullException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task24/Task24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task25/BaskedEmptyCheckedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task25/Basket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task25/BasketFullCheckedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task25/Task25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/task18_19/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/task18_19/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/task18_19/Task18_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/task2/MyOwnIgnoreCaseSensitiveComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/task2/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/Task9_11/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/Task9_11/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/Task9_11/Task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/Task9_11/Task9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/task4/Strorage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/task4/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/task4/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day1/task1/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task24/Basket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/sdacademy/java/advance/day2/Task24/Basket.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,15 +53,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Mateusz/IdeaProjects/ZadaniaJavaZaawansowan",
-    "settings.editor.selected.configurable": "inlay.hints"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mateusz/IdeaProjects/ZadaniaJavaZaawansowan&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="pl.sdacademy.java.advance.day2.Task24" />
