@@ -47,8 +47,8 @@ public class Task1 {
 
     private static List<String>  sortUsingOwnComparator (List<String> unsorted){
         List<String> sorted = new ArrayList<>(unsorted);
-        Collections.sort(sorted, new MyOwnComparator());
-        return sorted;
+        Collections.sort(sorted, new MyOwnComparator());    // metoda pozwala podać jako argument liste do posortowania
+        return sorted;                                      // i Comparator<t> tutaj MyOwnComparator
     }
     private static List<String>  sortUsingLambda (List<String> unsorted){
         List<String> sorted = new ArrayList<>(unsorted);
